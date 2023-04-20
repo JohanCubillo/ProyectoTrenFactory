@@ -1,0 +1,3 @@
+interface IVagonFactory {
+    Vagon crearVagon();
+}
